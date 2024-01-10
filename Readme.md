@@ -1,4 +1,4 @@
-# Leaning Backend
+# Learning Backend
 
 I have started this backend learning programe to enhance my Backend skill, Starting as a beginner but will be ended as a Pro 😎
 
