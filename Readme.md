@@ -6,3 +6,18 @@ I have started this backend learning programe to enhance my Backend skill, Start
     - Todo Model
     - Hospital Management Model
     - e-commerce Model
+
+# DAY 2 
+Connecting to the MongoDB Atlast.
+- Here I have learned the professional way to connect the database
+- How to use 'dotenv' configuration using 'import' by adding 
+    ```
+    -r dotenv/config--experimental-json-modules
+    ``` 
+    to the package.json file
+
+    ```
+    "scripts": {
+        "dev": "nodemon -r dotenvconfig--experimental-json-modulessrc/index.js"
+    }
+    ```
